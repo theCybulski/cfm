@@ -4,7 +4,7 @@ Project created for learning purposes. Working with react-redux for state manage
 ## Live
 Live version of the [app](http://cfm.thecybulski.com/)
 
-## Running locally
+## Running
 ```bash
 npm install
 npm start
